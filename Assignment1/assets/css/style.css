@@ -37,7 +37,7 @@ ul#nav li a {
 }
 
 ul#nav li a:hover {
-  color: #fc00d2;
+  color: #ff00ea;
 }
 
 header {
@@ -82,7 +82,7 @@ section {
 h2,
 h3 {
   color: #4aaaa5;
-  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-family: "Georgia", Times, Times New Roman, serif;
 }
 .text {
   font-family: Arial, Helvetica, sans-serif;
