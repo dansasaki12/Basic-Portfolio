@@ -120,3 +120,7 @@ footer
     height: 100px;
     clear: both;
 }
+#connectapps img:hover
+{
+    background-color: #ff00ea;
+}
