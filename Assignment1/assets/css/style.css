@@ -174,3 +174,17 @@ message
     border-top-color: #777777;
     color: #777777;
 }
+.appblocks
+{
+    padding: 0px 20px 0px 20px;
+}
+#leftapp
+{
+    float: left;
+}
+#rightapp
+{
+    float: right;
+}
+
+
