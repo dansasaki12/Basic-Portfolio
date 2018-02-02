@@ -57,7 +57,6 @@ section {
 #container {
   max-width: 960px;
   position: relative;
-  /* align-items: center; */
   margin: 0 auto;
 }
 .image {
@@ -174,35 +173,16 @@ message
     border-top-color: #777777;
     color: #777777;
 }
-.appblocks
-{
-    width: 275px;
-    text-align: center;
-}
 #leftapp
 {
-
     float: left;
-    
-   
 }
 #rightapp
 {
-    float: right;
+    float: left;
+    margin-left: 58px;
 }
-.applbl
+#rightapptext
 {
-    position: absolute;
-    background-color: #4aaaa5;
-    margin-top: 180px;
-    width: 275px;
-    height: 70px;
-    padding-top: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white; 
-    
-}
-#hoverapp:hover
-{
-    background-color: #ff00ea;
+
 }
