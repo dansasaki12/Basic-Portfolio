@@ -141,8 +141,9 @@ input[type=text], select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    color: #777777;
 }
-
 input[type=submit] {
     width: 25%;
     background-color: #4aaaa5 ;
@@ -153,4 +154,16 @@ input[type=submit] {
     border-radius: 4px;
     cursor: pointer;
     float: left;
+    font-family: "Georgia", Times, Times New Roman, serif;
+}
+input[type=submit]:hover {
+    background-color: #ff00ea;
+}
+#forms
+{
+    border-top-style: solid;
+    border-top-width: 2px;
+    padding-top: 20px;
+    border-top-color: #777777;
+    color: #777777;
 }
