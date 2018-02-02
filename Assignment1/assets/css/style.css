@@ -159,6 +159,11 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #ff00ea;
 }
+input[id=message]
+{
+    height: 200px;
+}
+
 #forms
 {
     border-top-style: solid;
